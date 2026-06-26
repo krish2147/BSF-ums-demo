@@ -1,0 +1,6 @@
+{
+  "name": "Baroda Swimfront Management System",
+  "description": "Enterprise-grade user, membership, attendance, and events management system for Baroda Swimfront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
